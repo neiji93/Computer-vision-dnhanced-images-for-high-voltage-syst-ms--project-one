@@ -24,4 +24,9 @@ bool testWrongValue(..)
 {
   //the range [ 0..10^15 hz is wrong
   //
+//as we used basics of esuations
+ //let use a basic model. it mean rriangular left.
+//this was used i' the os but here, we can omit some rays.
 }
+
+
