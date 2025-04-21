@@ -18,3 +18,10 @@ float getDiffuseComponentForDeviceTwoAtPositio'XY()
   //the error.tolerz'ce is 50 (as we left with 50 devices)
   //but add hdr datas without sampli'g.
 }
+
+
+bool testWrongValue(..)
+{
+  //the range [ 0..10^15 hz is wrong
+  //
+}
