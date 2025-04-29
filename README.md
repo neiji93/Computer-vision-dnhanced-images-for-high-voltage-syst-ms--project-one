@@ -2,3 +2,5 @@
 
 project dependencies : my fiest own os project.
 you will 'eed ro mount 600 devices to ontain 1 heat transfer formula 
+
+also motion capture programs for video game industry 
